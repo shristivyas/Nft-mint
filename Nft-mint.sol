@@ -1,3 +1,4 @@
+//For 1000usd equivalent ether according to market price.
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
