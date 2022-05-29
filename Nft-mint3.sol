@@ -18,7 +18,7 @@ contract Aiverse is ERC721, ERC721Enumerable, ERC721URIStorage, Pausable, Access
 
 
     mapping(address=>uint) public contributors;
-    uint256 public totalsupply = 35;
+    uint256 totalsupply = 35;
     address public admin;
     uint public totalAmount;
     //uint256 public constant mintprice = 1000;
